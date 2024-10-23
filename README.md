@@ -28,6 +28,10 @@ The dataset contains the following features:
 │   ├── Final_Model.ipynb
 ├── test
 │   ├── model_experiments.ipynb
+├── code_pdf
+│   ├── EDA.pdf
+│   ├── Final_Model.pdf
+│   ├── model_experiments.pdf
 ├── README.md
 ├── requirements.txt
 └── environment.yml
