@@ -1,0 +1,25 @@
+name: axa-env
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scikit-learn
+  - imbalanced-learn
+  - matplotlib
+  - seaborn
+  - jupyterlab
+  - lightgbm
+  - shap
+  - xgboost
+  - pip:
+      - lime==0.2.0.1
+      - joblib
+      - keras
+      - tensorflow
+      - optuna
+      - h5py
+prefix: C:\Users\rohit\anaconda3
