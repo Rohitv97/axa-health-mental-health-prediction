@@ -20,7 +20,7 @@ The dataset contains the following features:
 - **Target variable**: History of Mental Illness (Yes/No).
 
 ## Project Structure
-.
+```bash
 ├── data
 │   ├── raw
 │   └── processed
@@ -36,6 +36,7 @@ The dataset contains the following features:
 ├── README.md
 ├── requirements.txt
 └── environment.yml
+```
 
 
 
