@@ -22,17 +22,12 @@ The dataset contains the following features:
 ## Project Structure
 ```bash
 ├── data
-│   ├── raw
-│   └── processed
-├── notebooks
-│   ├── 01_EDA.ipynb
-│   ├── 02_Model_Training.ipynb
+│   ├── depression_data.csv
 ├── src
-│   ├── data_preprocessing.py
-│   ├── model_training.py
-│   └── utils.py
+│   ├── EDA.ipynb
+│   ├── Final_Model.ipynb
 ├── test
-│   ├── test_model.py
+│   ├── model_experiments.ipynb
 ├── README.md
 ├── requirements.txt
 └── environment.yml
