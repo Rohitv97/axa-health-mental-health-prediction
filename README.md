@@ -20,6 +20,22 @@ The dataset contains the following features:
 - **Target variable**: History of Mental Illness (Yes/No).
 
 ## Project Structure
+.
+├── data
+│   ├── raw
+│   └── processed
+├── notebooks
+│   ├── 01_EDA.ipynb
+│   ├── 02_Model_Training.ipynb
+├── src
+│   ├── data_preprocessing.py
+│   ├── model_training.py
+│   └── utils.py
+├── test
+│   ├── test_model.py
+├── README.md
+├── requirements.txt
+└── environment.yml
 
 
 
